@@ -26,7 +26,6 @@ for name in dirtyNames:
 
         # formats each part around the hyphen
         for part in name:
-
             # determines the index of the part in the name list
             index = name.index(part)
 
